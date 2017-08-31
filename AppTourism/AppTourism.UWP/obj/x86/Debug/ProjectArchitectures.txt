@@ -1,0 +1,2 @@
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.UWP\AppTourism.UWP.csproj;x86
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\AppTourism.csproj;neutral

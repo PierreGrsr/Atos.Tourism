@@ -1,0 +1,9 @@
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\bin\Debug\AppTourism.dll
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\bin\Debug\AppTourism.pdb
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\obj\Debug\AppTourism.dll
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\obj\Debug\AppTourism.pdb
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\obj\Debug\AppTourism.csprojResolveAssemblyReference.cache
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\bin\Debug\Mono.Android.dll
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\bin\Debug\Mono.Android.pdb
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\bin\Debug\Mono.Android.xml
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism\obj\Debug\AppTourism.csproj.CoreCompileInputs.cache

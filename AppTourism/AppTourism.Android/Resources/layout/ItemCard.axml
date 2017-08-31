@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="108.5dp"
+        android:id="@+id/itemImage" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/detail" />
+    <GridLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:rowCount="1"
+        android:columnCount="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridLayout1">
+        <Button
+            android:text="Add to mT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/add"
+            android:layout_columnWeight="1" />
+        <Button
+            android:text="Buy Ticket"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ticket"
+            android:layout_marginLeft="0.0dp"
+            android:layout_columnWeight="1" />
+    </GridLayout>
+</LinearLayout>

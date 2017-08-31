@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:id="@+id/gridLayout1"
+    android:rowCount="3"
+    android:columnCount="1">
+    <Button
+        android:text="Discover"
+        android:id="@+id/discover"
+        android:layout_rowWeight="1"
+        android:layout_gravity="fill_horizontal" />
+    <Button
+        android:text="My Guide"
+        android:id="@+id/myGuide"
+        android:layout_rowWeight="1"
+        android:layout_gravity="fill_horizontal" />
+    <Button
+        android:text="My Tour"
+        android:id="@+id/myTour"
+        android:layout_rowWeight="1"
+        android:layout_gravity="fill_horizontal" />
+</GridLayout>

@@ -1,0 +1,16 @@
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\bin\iPhone\Debug\AppTourism.iOS.exe
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\bin\iPhone\Debug\AppTourism.iOS.pdb
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\bin\iPhone\Debug\AppTourism.dll
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\bin\iPhone\Debug\Mono.Android.dll
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\bin\iPhone\Debug\AppTourism.pdb
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\bin\iPhone\Debug\AppTourism.dll.mdb
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\bin\iPhone\Debug\Mono.Android.pdb
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\bin\iPhone\Debug\Mono.Android.xml
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\obj\iPhone\Debug\AppTourism.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\obj\iPhone\Debug\AppTourism.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\obj\iPhone\Debug\AppTourism.iOS.exe
+C:\Users\Marion\Desktop\New folder\AppTourism\AppTourism\AppTourism.iOS\obj\iPhone\Debug\AppTourism.iOS.pdb

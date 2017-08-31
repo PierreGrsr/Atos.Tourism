@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Card Number"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:typeface="monospace"
+        android:layout_gravity="center" />
+    <EditText
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="16"
+        android:id="@+id/cardNumber" />
+    <TextView
+        android:text="Cryptogramme"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textStyle="normal"
+        android:typeface="monospace" />
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridLayout1"
+        android:columnCount="2"
+        android:rowCount="1">
+        <EditText
+            android:inputType="number"
+            android:id="@+id/cryptogramme"
+            android:maxLength="3"
+            android:layout_columnWeight="1" />
+        <Button
+            android:text="HELP"
+            android:id="@+id/button2" />
+    </GridLayout>
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridLayout2"
+        android:rowCount="1"
+        android:columnCount="2">
+        <TextView
+            android:text="Price :"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textView3"
+            android:layout_columnWeight="1" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/priceTextView"
+            android:layout_columnWeight="1" />
+    </GridLayout>
+    <Button
+        android:text="Buy Ticket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1" />
+</LinearLayout>
